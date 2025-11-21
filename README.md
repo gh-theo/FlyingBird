@@ -39,4 +39,8 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 
 ## FlyingBird 测速图
 
-![FlyingBird 测速图 =688x](https://i.theojs.cn/airport/flyingbird.webp)
+![FlyingBird 拓扑图 =688x](https://i.theojs.cn/airport/flyingbird_topology.webp)
+
+![FlyingBird 流媒体解锁图 =688x](https://i.theojs.cn/airport/flyingbird_unlock.webp)
+
+![FlyingBird 中山电信测速图 =688x](https://i.theojs.cn/airport/flyingbird_zhongshan_telecom.webp)
