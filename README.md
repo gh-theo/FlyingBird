@@ -1,6 +1,9 @@
 # FlyingBird - 飞鸟机场
 FlyingBird 飞鸟机场提供高速稳定的科学上网服务，支持多设备同时连接，解锁Netflix、HBO Max、YouTube、Spotify等全球流媒体，采用专线线路，保障安全、稳定和流畅的连接体验。
 
+- [🔥🔥🔥2026 年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [🔥🔥🔥 稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
+
 ## FlyingBird 专属优惠！
 
 - 月/季/半年付 85折: fb250085 
