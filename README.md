@@ -8,9 +8,6 @@
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
-- [🔥🔥🔥2026 年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
-- [🔥🔥🔥 稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
-
 ## 飞鸟机场(FlyingBird)是什么？适合哪些人使用（真实体验 + 优缺点）
 
 **不做订阅阅后即焚!!放心使用**
@@ -48,4 +45,14 @@
 ## 飞鸟机场(FlyingBird)真实测速图（高峰期表现实测）
 
 [点此查看测速图](https://doc.theojs.cn/serve/airport/flyingbird#%E9%A3%9E%E9%B8%9F%E6%9C%BA%E5%9C%BA-flyingbird-%E7%9C%9F%E5%AE%9E%E6%B5%8B%E9%80%9F%E5%9B%BE-%E9%AB%98%E5%B3%B0%E6%9C%9F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B)
+
+---
+
+- [🔥🔥🔥2026年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
+- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://doc.theojs.cn/ai/summary)
+- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://doc.theojs.cn/serve/code/sms)
+
+
+> 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
 
