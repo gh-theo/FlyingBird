@@ -44,7 +44,7 @@
 
 ## 飞鸟机场(FlyingBird)真实测速图（高峰期表现实测）
 
-[点此查看测速图](https://doc.theojs.cn/serve/airport/flyingbird#%E9%A3%9E%E9%B8%9F%E6%9C%BA%E5%9C%BA-flyingbird-%E7%9C%9F%E5%AE%9E%E6%B5%8B%E9%80%9F%E5%9B%BE-%E9%AB%98%E5%B3%B0%E6%9C%9F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B)
+[飞鸟机场(FlyingBird)真实测速图](https://doc.theojs.cn/serve/airport/flyingbird#飞鸟机场-flyingbird-vpn真实测速图-高峰期表现实测)
 
 ---
 
