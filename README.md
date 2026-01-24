@@ -1,14 +1,14 @@
-# 飞鸟机场(FlyingBird)官网注册地址｜真实测速｜价格与套餐详解
+# 飞鸟机场(FlyingBird)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 飞鸟机场(FlyingBird)官网注册地址（当前可用｜稳定高速｜真实测速）
+## 飞鸟机场(FlyingBird)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** [飞鸟机场(FlyingBird)官网注册地址](https://itheo.top/flyingbird)
+**点击购买👉👉👉** [飞鸟机场(FlyingBird)VPN官网注册地址](https://itheo.top/flyingbird)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
-## 飞鸟机场(FlyingBird)是什么？适合哪些人使用（真实体验 + 优缺点）
+## 飞鸟机场(FlyingBird)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 **不做订阅阅后即焚!!放心使用**
 
@@ -25,7 +25,7 @@
 - 花费划算，虽然使用了昂贵的专线，但售价非常亲民；
 - 安裝便捷、灵便、便捷，支持 **iOS，安卓 Android，Windoors，MAC 苹果电脑，Linux** 等所有平台和系统。
 
-## 飞鸟机场(FlyingBird)价格与套餐对比（性价比分析｜新手怎么选）
+## 飞鸟机场(FlyingBird)VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 **支付方式**: 支付宝 USDT
 
@@ -37,18 +37,18 @@
 
 | 套餐类型 |   流量    | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                       套餐购买                                                        |
 | :------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **青铜** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |    ✅    | [飞鸟机场(FlyingBird)官网注册地址](https://itheo.top/flyingbird) |
-| **白银** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |    ✅    | [飞鸟机场(FlyingBird)官网注册地址](https://itheo.top/flyingbird) |
-| **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |    ✅    | [飞鸟机场(FlyingBird)官网注册地址](https://itheo.top/flyingbird) |
-| **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |    ✅    | [飞鸟机场(FlyingBird)官网注册地址](https://itheo.top/flyingbird) |
+| **青铜** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |    ✅    | [飞鸟机场(FlyingBird)VPN官网注册地址](https://itheo.top/flyingbird) |
+| **白银** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |    ✅    | [飞鸟机场(FlyingBird)VPN官网注册地址](https://itheo.top/flyingbird) |
+| **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |    ✅    | [飞鸟机场(FlyingBird)VPN官网注册地址](https://itheo.top/flyingbird) |
+| **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |    ✅    | [飞鸟机场(FlyingBird)VPN官网注册地址](https://itheo.top/flyingbird) |
 
-## 飞鸟机场(FlyingBird)真实测速图（高峰期表现实测）
+## 飞鸟机场(FlyingBird)VPN真实测速图（高峰期表现实测）
 
-[飞鸟机场(FlyingBird)真实测速图](https://doc.theojs.cn/serve/airport/flyingbird#飞鸟机场-flyingbird-vpn真实测速图-高峰期表现实测)
+[飞鸟机场(FlyingBird)VPN真实测速图](https://doc.theojs.cn/serve/airport/flyingbird#飞鸟机场-flyingbird-vpn真实测速图-高峰期表现实测)
 
 ---
 
-- [🔥🔥🔥2026年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
 - [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://doc.theojs.cn/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://doc.theojs.cn/serve/code/sms)
