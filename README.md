@@ -4,7 +4,7 @@
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** [飞鸟机场(FlyingBird)VPN官网](https://eoht.net/serve/airport/xdm)
+**点击购买👉👉👉** [飞鸟机场(FlyingBird)VPN官网](https://eoht.net/serve/airport/summary)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -37,14 +37,14 @@
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
 | :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
+| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
 
 ## 飞鸟机场(FlyingBird)VPN真实测速图（高峰期表现实测）
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/xdm)
+完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/summary)
 
 - [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
 - [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
